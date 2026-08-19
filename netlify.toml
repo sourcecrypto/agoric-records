@@ -1,4 +1,0 @@
-[build]
-  command = "gulp boot-build"
-  publish = "_site/"
-
